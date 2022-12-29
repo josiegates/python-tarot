@@ -20,9 +20,7 @@ def get_card(deck):
 def get_deck():
     deck = [
         {"name": "Sun", "url": "sun", "image": "images/1.jpg",
-         "desc": "Creativity,
-Consciousness,
-Brilliance",
+         "desc": "Creativity,Consciousness,Brilliance",
          "rdesc": "Stale, Selfish, Immaturity",
          "cbd_desc": "Freedom from conventions and norms. Something or someone unique and exceptional. Options kept open. Giving up control, spontaneity. Uncertainty, attention to the here and now. Going on a trip.",
          "sequence": 1},
